@@ -1,16 +1,16 @@
 # 🐍 Python Internship – Week 01 Tasks
 
-Hi! This folder includes all the tasks I completed in **Week 01** of my Python internship. The goal this week was to practice basic Python concepts like printing messages, taking input, using functions, doing calculations, and understanding conditionals.
+Hi! This folder includes all the tasks I completed in **Week 01** of my Python internship. The goal this week was to practice basic Python concepts like **printing messages, taking input, using functions, doing calculations, and understanding conditionals.**
 
 ## 📘 Task Details
 
-### 🔹 Task 1: Hello World & Intro
+### 🔹 Task 1: Hello, World & Intro
 
 A simple program that prints **"Hello, World!"** and a short introduction about me.
 It's my first step into Python programming!
 
 ### 🔹 Task 1: OUTPUT 
-![alt text](Task1_output.png)
+![alt text](Task1_ouput.png)
 
 
 ### 🔹 Task 2: Advanced Arithmetic
