@@ -1,0 +1,9 @@
+Hello!!
+
+My name is Fiza Sohail.
+
+I'm learning python to develop my skills in AI/ML.
+
+Python is an amazing language.
+
+Learning python is very Fun!
