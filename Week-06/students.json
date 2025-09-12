@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Amna",
+        "Roll no": "100",
+        "Course_name": "Python",
+        "Fee_structure": "5000"
+    },
+    {
+        "Name": "Ayesha",
+        "Roll no": "101",
+        "Course_name": "Python",
+        "Fee_structure": "5000"
+    },
+    {
+        "Name": "Hifsa",
+        "Roll no": "102",
+        "Course_name": "Python",
+        "Fee_structure": "5000"
+    }
+]
